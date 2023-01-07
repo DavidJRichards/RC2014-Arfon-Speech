@@ -3,7 +3,7 @@ RC2014 implementation of Arfon speech system demo
 
 ## Photos 
 
-![Circuit board](URL)
+![Circuit board](./images/IMG_20200202_165153.jpg)
 
 ![Cased unit](./images/IMG_20200203_225306.jpg)
 
